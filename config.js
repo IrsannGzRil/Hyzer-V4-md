@@ -17,7 +17,7 @@ second: 'numeric'
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
-global.owner = ['17608914335'] // Put your number here
+global.owner = ['+856 20 52 906 199'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -46,7 +46,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://melcanz.com': 'elaina',
+  'https://melcanz.com': 'irsantod',
   'https://api.xteam.xyz': 'apikeymu',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
@@ -55,25 +55,25 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': 'Sad-Bot',
 }
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
-global.author = `Ｍａｒｉｎ－ＭＤ
+global.packname = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n|'
+global.author = `San－ＭＤ
 
 
 
 
 
-ig: senpai_chan_gemoy`
-global.wm = 'Ｍａｒｉｎ－ＭＤ'
+ig: SampGtaSa`
+global.wm = 'San－ＭＤ'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
-global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
-global.instagram = 'https://instagram.com/senpai_chan_gemoy'
+global.media = 'https://telegra.ph/file/1411d2bd16e73925274d1.mp4'
+global.instagram = 'https://telegram.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
