@@ -72,7 +72,7 @@ ig: SampGtaSa`
 global.wm = 'San－ＭＤ'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
-global.media = 'https://telegra.ph/file/1411d2bd16e73925274d1.mp4'
+global.media = 'https://telegra.ph/file/526331afa85a90ee5e3aa.jpg'
 global.instagram = 'https://telegram.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
